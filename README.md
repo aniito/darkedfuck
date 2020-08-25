@@ -5,14 +5,15 @@ pour lancer le DarkedTokenFucker, installez :
 
 - pour Linux :
 
-python3 -m pip install -U discord.py
+$ pip install discord.py
 
-sudo pip3 install selenium
+$ pip install requests
 
 - pour Windows :
 
-pip install discord.py
-pip install requests
+> python3 -m pip install -U discord.py
+
+> sudo pip3 install selenium
 
 :/ un problème ? :
 
