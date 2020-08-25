@@ -15,6 +15,10 @@ $ pip install requests
 
 > sudo pip3 install selenium
 
+- lancez le programme sur linux
+
+$ python3 darkedfucker.py
+
 :/ un problème ? :
 
 https://discord.gg/QbZqsGf
